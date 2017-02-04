@@ -1,9 +1,9 @@
 # polylang-revslider
-Polylang integration for Revolution Slider for WordPress
+Polylang integration for [Slider Revolution](http://revolution.themepunch.com/) for WordPress
 
-Revolution Slider has WPML support but lacks native Polylang support. Since 
+Slider Revolution has WPML support but lacks native Polylang support. Since 
 Polylang has basic WPML compatibility we can fake that WPML is loaded and 
-Revolution Slider will enable all translation related functions which will get
+Slider Revolution will enable all translation related functions which will get
 emulated by the Polylang WPML compatibility. Translating sliders is then 
 possible without WPML.
 
